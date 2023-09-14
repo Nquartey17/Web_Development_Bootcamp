@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+  font-size: 200px;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+.bacon {
+  background-color: green;
+}
+
+.brocoli {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+/* ID can only be used once, class can be used multiple times id > class */
+#heading {
+  color: blue;
+}
